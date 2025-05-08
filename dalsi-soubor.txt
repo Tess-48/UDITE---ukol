@@ -1,0 +1,2 @@
+Vytvoøila jsem další soubor.
+Toto je jiný obsah souboru v nové vìtvi.
