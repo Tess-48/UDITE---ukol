@@ -1,0 +1,2 @@
+Vytvoøila jsem další soubor.
+Toto je obsah souboru v hlavní vìtvi.
