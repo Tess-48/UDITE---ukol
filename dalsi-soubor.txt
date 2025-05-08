@@ -1,2 +1,2 @@
-Vytvoøila jsem další soubor.
-Toto je obsah souboru v hlavní vìtvi.
+VytvoÅ™ila jsem dalÅ¡Ã­ soubor.
+Toto je kombinace obsahu z hlavnÃ­ vÄ›tve i z novÃ© vÄ›tve.
